@@ -1,0 +1,1801 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,burning_sensation,bleeding,swelling,skin_redness,bite_mark,blister,Disease
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability,,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Chicken pox, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Common Cold, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability,,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Chicken pox, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Common Cold, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability,,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Chicken pox, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Common Cold, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability,,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Chicken pox, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Common Cold, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability,,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Chicken pox, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Common Cold, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, dischromic _patches,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, chills, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, watering_from_eyes,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, vomiting, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, cough, chest_pain,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, dehydration, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, diarrhoea,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Migraine, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, depression, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, irritability, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, visual_disturbances,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability,,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Chicken pox, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, malaise, red_spots_over_body,,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Common Cold, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Acne, skin_rash, blackheads, scurring,,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+Fungal infection,itching, skin_rash, nodal_skin_eruptions, dischromic _patches,,,,,,,,,,,,,,0,0,0,0,0,0,
+Allergy, continuous_sneezing, shivering, chills, watering_from_eyes,,,,,,,,,,,,,,0,0,0,0,0,0,
+GERD, stomach_pain, acidity, ulcers_on_tongue, vomiting, cough, chest_pain,,,,,,,,,,,,0,0,0,0,0,0,
+Gastroenteritis, vomiting, sunken_eyes, dehydration, diarrhoea,,,,,,,,,,,,,,0,0,0,0,0,0,
+Migraine, acidity, indigestion, headache, blurred_and_distorted_vision, excessive_hunger, stiff_neck, depression, irritability, visual_disturbances,,,,,,,,,0,0,0,0,0,0,
+Chicken pox,itching, skin_rash, fatigue, lethargy, high_fever, headache, loss_of_appetite, mild_fever, swelled_lymph_nodes, malaise, red_spots_over_body,,,,,,,0,0,0,0,0,0,
+Common Cold, continuous_sneezing, chills, fatigue, cough, high_fever, headache, swelled_lymph_nodes, malaise, phlegm, throat_irritation, redness_of_eyes, sinus_pressure, runny_nose, congestion, chest_pain, loss_of_smell, muscle_pain,0,0,0,0,0,0,
+Acne, skin_rash, pus_filled_pimples, blackheads, scurring,,,,,,,,,,,,,,0,0,0,0,0,0,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,Minor Burn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Small Cut
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Insect Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Sprain
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Sunburn
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dehydration
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,Dog Bite
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Dog Bite

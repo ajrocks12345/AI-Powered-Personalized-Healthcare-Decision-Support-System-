@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MediBot - AI Health Assistant</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Sidebar / Header Area -->
+        <header class="sidebar">
+            <div class="logo">
+                <i class="fa-solid fa-heart-pulse"></i>
+                <h1>MediBot</h1>
+            </div>
+            <p class="subtitle">Intelligent Disease Prediction System</p>
+            <div class="doctor-profile">
+                <img src="doctor.jpg" alt="AI Doctor" class="doctor-img">
+            </div>
+
+            <div class="user-selection" style="margin: 15px 0;">
+                <label for="user-dropdown" style="display: block; font-size: 0.9em; margin-bottom: 5px; color: var(--text-light); text-align: left;"><i class="fa-solid fa-user"></i> Switch User:</label>
+                <div style="display: flex; gap: 5px;">
+                    <select id="user-dropdown" style="flex: 1; padding: 10px; border-radius: 8px; border: 1px solid var(--border-color); background: rgba(255, 255, 255, 0.5); font-family: 'Outfit'; font-size: 0.95em;">
+                        <option value="new">+ Create New User</option>
+                    </select>
+                    <button id="delete-user-btn" title="Delete current user" style="display:none; background: rgba(239, 68, 68, 0.2); border: 1px solid rgba(239, 68, 68, 0.4); color: #fca5a5; padding: 10px; border-radius: 8px; cursor: pointer;">
+                        <i class="fa-solid fa-trash"></i>
+                    </button>
+                </div>
+                <!-- Password Login Area -->
+                <div id="login-container" style="display: none; margin-top: 10px; flex-direction: column; gap: 8px; animation: slideIn 0.3s ease;">
+                    <input type="password" id="login-password" placeholder="Enter password..." style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid var(--border-color); background: rgba(255, 255, 255, 0.5); font-family: 'Outfit';">
+                    <button id="login-btn" class="icon-btn" style="width: 100%; height: 40px; border-radius: 8px; background: var(--primary-color); color: white; border: none; font-family: 'Outfit'; font-weight: 600; cursor: pointer;">
+                        <i class="fa-solid fa-unlock"></i> Unlock Report
+                    </button>
+                </div>
+            </div>
+
+            <div class="download-buttons" style="display: flex; gap: 10px; margin-bottom: 20px;">
+                <a href="/download-history" class="download-btn" id="csv-download-btn" style="flex: 1; text-align: center; font-size: 0.85em; padding: 10px;">
+                    <i class="fa-solid fa-file-csv"></i> Get CSV
+                </a>
+                <a href="/download-pdf" class="download-btn" id="pdf-download-btn" style="flex: 1; text-align: center; font-size: 0.85em; padding: 10px; background: rgba(56, 189, 248, 0.2); border-color: rgba(56, 189, 248, 0.4); color: #38bdf8;">
+                    <i class="fa-solid fa-file-pdf"></i> Get PDF
+                </a>
+            </div>
+
+            <div class="disclaimer">
+                <i class="fa-solid fa-triangle-exclamation"></i>
+                <p>This is an AI assistant. Results are for informational purposes only and do not replace professional
+                    medical advice.</p>
+            </div>
+        </header>
+
+        <!-- Main Chat Area -->
+        <main class="chat-interface">
+            <div class="chat-history" id="chat-history">
+            </div>
+
+            <div id="chat-actions"></div>
+            <div class="input-area">
+                <div class="input-wrapper">
+                    <button id="mic-btn" class="icon-btn mic-btn" title="Speak">
+                        <i class="fa-solid fa-microphone"></i>
+                    </button>
+                    <input type="text" id="user-input" placeholder="Describe your symptoms..." autocomplete="off">
+                    <button id="send-btn" class="icon-btn send-btn" title="Send">
+                        <i class="fa-solid fa-paper-plane"></i>
+                    </button>
+                    <div class="loader" id="loader"></div>
+                </div>
+            </div>
+        </main>
+
+    </div>
+
+    <!-- Template for Result Card (Hidden) -->
+    <template id="result-template">
+        <div class="result-card">
+            <div class="result-header">
+                <div class="title-container">
+                    <h3 class="disease-name"></h3>
+                    <p class="disease-description"></p>
+                </div>
+                <span class="confidence-badge"></span>
+            </div>
+            <div class="result-section">
+                <h4><i class="fa-solid fa-magnifying-glass"></i> Identified Symptoms</h4>
+                <div class="symptom-tags"></div>
+            </div>
+            <div class="result-section alternative-predictions" style="display: none;">
+                <h4><i class="fa-regular fa-lightbulb"></i> Possible causes</h4>
+                <ul class="alt-predictions-list"></ul>
+            </div>
+            <div class="result-section">
+                <h4><i class="fa-solid fa-user-shield"></i> Recommended Precautions</h4>
+                <ul class="precautions-list"></ul>
+            </div>
+            <div class="result-section warning-section" style="display: none;">
+                <h4><i class="fa-solid fa-triangle-exclamation"></i> When to see a doctor</h4>
+                <ul class="warning-list"></ul>
+            </div>
+            <div class="result-section question-section" style="display: none;">
+                <h4><i class="fa-solid fa-circle-question"></i> Quick check</h4>
+                <p class="question-intro">Narrow it down by checking if you have these:</p>
+                <div class="question-list"></div>
+            </div>
+            <div class="result-section hospitals-section" style="display: none;">
+                <h4><i class="fa-solid fa-hospital"></i> Nearby Hospitals & Clinics</h4>
+                <div class="hospital-cards"></div>
+            </div>
+            <div class="result-section pharmacies-section" style="display: none;">
+                <h4><i class="fa-solid fa-pills"></i> Nearby Pharmacies & Medical Stores</h4>
+                <div class="pharmacy-cards"></div>
+            </div>
+        </div>
+    </template>
+
+    <!-- Detailed View Modal -->
+    <div id="alt-modal" class="modal">
+        <div class="modal-content glass-effect">
+            <span class="close-btn">&times;</span>
+            <div class="modal-header">
+                <h2 id="modal-disease-name">Disease Name</h2>
+                <span id="modal-confidence" class="confidence-badge">--%</span>
+            </div>
+            <div class="modal-body">
+                <div class="modal-section">
+                    <h4><i class="fa-solid fa-circle-info"></i> What is this?</h4>
+                    <p id="modal-description">Detailed explanation goes here...</p>
+                </div>
+                <div class="modal-section">
+                    <h4><i class="fa-solid fa-notes-medical"></i> Common Symptoms</h4>
+                    <div id="modal-symptoms" class="symptom-tags"></div>
+                </div>
+                <div class="modal-section">
+                    <h4><i class="fa-solid fa-user-shield"></i> Recommended Precautions</h4>
+                    <ul id="modal-precautions" class="precautions-list"></ul>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <p class="medical-disclaimer"><i class="fa-solid fa-triangle-exclamation"></i> Always consult a medical professional for an accurate diagnosis.</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js?v=3"></script>
+</body>
+
+</html>

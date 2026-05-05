@@ -1,0 +1,19 @@
+Disease,fever,cough,fatigue,difficulty_breathing,body_pain,sore_throat,runny_nose,headache,chills,nausea,vomiting,diarrhea,skin_rash,itching,joint_pain
+Flu,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0
+Flu,1,1,1,0,1,0,1,1,1,0,0,0,0,0,0
+Common Cold,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0
+Common Cold,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0
+COVID-19,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0
+COVID-19,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0
+Allergy,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0
+Allergy,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0
+Dengue,1,0,1,0,1,0,0,1,1,1,1,0,1,0,1
+Dengue,1,0,1,0,1,0,0,1,1,1,1,0,1,1,1
+Malaria,1,0,1,0,1,0,0,1,1,1,1,0,0,0,0
+Malaria,1,0,1,0,1,0,0,1,1,1,1,0,0,0,1
+Typhoid,1,0,1,0,1,0,0,1,0,1,1,1,0,0,0
+Typhoid,1,0,1,0,1,0,0,1,0,0,1,1,0,0,0
+Migraine,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0
+Migraine,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0
+Fungal Infection,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+Fungal Infection,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0
