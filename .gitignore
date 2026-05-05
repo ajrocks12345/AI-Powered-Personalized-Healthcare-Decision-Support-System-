@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pickled models and datasets (Do not push to GitHub due to size limits >100MB)
+backend/*.pkl
+backend/home_dataset_vectorized.csv
+
+# User Data Logs (Privacy & Security)
+logs/
+backend/logs/
+
+# Optional small local models
+# intent_model.pkl
+# preprocessor.pkl
+
+# OS generated files
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,9 @@
+numpy
+flask
+flask-cors
+SpeechRecognition
+PyAudio
+wikipedia
+pyautogui
+requests
+openai
