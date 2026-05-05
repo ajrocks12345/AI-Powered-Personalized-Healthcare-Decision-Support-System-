@@ -37,7 +37,7 @@ python backend/app.py
 ```
 
 ### 5. Access the UI
-Open your browser and navigate to: **[http://127.0.0.1:5000](http://127.0.0.1:5000)**. 
+Open your browser and navigate to:  http://127.0.0.1:5001 **. 
 Create a profile and begin chatting with MediBot!
 
 ---
